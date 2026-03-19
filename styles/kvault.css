@@ -26,13 +26,13 @@
 }
 
 .hero-text {
-     margin: 0 auto;
+    margin: 0 auto;
 }
 /* Shared Style */
 
 .open-sans {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
 }
 
 
@@ -226,6 +226,38 @@ header nav .menu-items ul li a{
     margin-bottom: 16px;
     gap: 10px;
 }
+
+
+.early-access {
+    padding: 80px 40px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+
+.early-access h3 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700px;
+    text-transform: capitalize;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.early-text {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.early-access button {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 
 
 
