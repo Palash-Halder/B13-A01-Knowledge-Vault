@@ -17,6 +17,12 @@
     border-radius: 5px;
     color: #FFFFFF;
     border: none;
+    cursor: pointer;
+    
+}
+
+.btn:hover {
+    background-color: #469165b7;
 }
 
 .hero-text {
@@ -100,6 +106,7 @@ header nav .menu-items ul li a{
 .banner .btn {
     margin-bottom: 175px;
     margin-right: 16px;
+     border: 1px solid #30B868;
 }
 
 .second{
