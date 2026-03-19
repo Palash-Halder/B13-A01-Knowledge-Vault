@@ -117,6 +117,67 @@ header nav .menu-items ul li a{
 
 
 
+/* ==========notes========== */
+
+.notes {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.notes .notes-title {
+    margin-top: 50px;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 16px;
+}
+
+.notes .notes-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.notes .notes-items {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 44px;
+    
+}
+
+.notes .notes-card{
+    padding: 70px 30px;
+    max-width: 322px;
+    max-height: 300px;
+    box-shadow: 0 6px 50px #00000027;
+    border-radius: 10px;
+
+}
+.notes .icon-bg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #F95555;
+    margin: 0 auto;
+}
+.notes img {
+    padding: 20%;
+}
+
+.notes .notes-items h3{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+.notes-card p{
+    padding-bottom: 70px;
+}
+
+
 
 
 
